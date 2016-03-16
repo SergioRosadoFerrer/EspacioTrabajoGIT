@@ -11,6 +11,8 @@ public class Jarra {//variables de instancia
 	}
 //  metodos
               1
+
+              //esta parte se ha modificado por eu en la rama jonny992branch2
               public void llena(){
 		this.cantidad=this.capacidad;
 	}
